@@ -2,7 +2,7 @@
 date: 2020-09-19T11:32:26Z
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 title: My First Forestry Blog Post
-author: Robert Thoreau
+author: Alperen Kan
 
 ---
 # Hello World!
