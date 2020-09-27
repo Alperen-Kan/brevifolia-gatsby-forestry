@@ -11,6 +11,10 @@ sections:
   match: "**/*"
 - type: heading
   label: Content
+- type: document
+  path: content/data/test
+  label: test
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Blog Posts
